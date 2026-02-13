@@ -1,4 +1,6 @@
-This is a sampled version (first 100k rows) for the dashboard demo due to GitHub file size limits. The full dataset is available on Kaggle <transactions_data.csv> 1.2GB . I could remove rows to have a sample dataset. But I import the whole csv and json files.
+This is a sampled version (first 100k rows) for the dashboard demo due to GitHub file size limits. The full dataset is available on Kaggle: <transactions_data.csv>, 1.2 GB.
+I could remove rows to have a sample dataset. But I import the entire CSV and JSON files.
+Dashboard built on sampled data (first 100k rows) due to GitHub 100 MB file limit and large original CSV (350 MB).  
 Please use the whole dataset to have the correct numbers.
 
 Key notes:
